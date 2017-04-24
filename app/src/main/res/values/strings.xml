@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ForEmnotion</string>
+    <string name="title_activity_main">Map</string>
+    <string name="title_tab1">Tab 1</string>
+    <string name="title_tab2">Tab 2</string>
+    <string name="sourse_title">Source:</string>
+    <string name="dest_title">Destination:</string>
+    <string name="distance_title">Distance,m:</string>
+</resources>
